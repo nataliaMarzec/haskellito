@@ -1,3 +1,4 @@
+# En proceso de desarrollo............................!!!!!!!!!!!!!!!!!!!!!!
 # Proyecto pensado para entender Haskell. 
 ## De una estudiante para estudiantes.
 ## De haskellita a haskellitos:
@@ -8,4 +9,5 @@
   * Que sea una interfaz de acompañamiento entre estudiante a estudiante. ~
   
   @Copyrigth(haskellito)
+
 
