@@ -6,4 +6,6 @@
   * Transmitir la ansiada comprensión
   * Poder tener un medio compartido para la disertación de los contenidos propuestos.
   * Que sea una interfaz de acompañamiento entre estudiante a estudiante. ~
+  
+  @Copyrigth(haskellito)
 
