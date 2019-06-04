@@ -9,5 +9,16 @@
   * Que sea una interfaz de acompañamiento entre estudiante a estudiante. ~
   
   @Copyrigth(haskellito)
+  
+  
+##### ~ Haskellita dice que ~:
+
+ La programación funcional es una forma de crear un nuevo objeto, un nuevo universo cada vez que se aplique una función.
+ Entonces si quisieramos pintar un avión sin color de un color azul entonces al pintarlo se crearía un nuevo avión azul
+         Tendriamos el avión sin color y el avión azul -> Así admitiríamos una forma diferente de programar.
+ ¿
+    
+ Afirmación= proceso de haskellitobitro: Cuanto más cresca más cierto es el corolario
+ disertación..............???Refutación...........???Argumentación.................???
 
 
